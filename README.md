@@ -13,6 +13,7 @@ Independently developed Cooking Recipe Content Management System allows users to
 ### Key Technologies:
 * Php 
 * PDO
+* MySQL
 * HTML5
 * CSS3
 * Git
