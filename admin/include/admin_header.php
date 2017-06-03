@@ -23,7 +23,7 @@
     
     <script type="text/javascript" src="js/jquery.js"></script>
 <!--    <script src="//cloud.tinymce.com/stable/tinymce.min.js"></script>-->
-    <script src="http://cloud.tinymce.com/stable/tinymce.min.js?apiKey=cjbi3ly6dc2mdoxbmtl3jk3mj61tbuhekk74mtkepkf0ou72"></script>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js?apiKey=cjbi3ly6dc2mdoxbmtl3jk3mj61tbuhekk74mtkepkf0ou72"></script>
 
 
   <script type="text/javascript">

@@ -24,11 +24,11 @@ if(isset($_POST['create_post'])){
     {
         echo "<div class='alert alert-warning'> Input Missing ! Please fill out inputs. </div>";
         //go back to create post
-        echo "<a href='http://myapplication.dev/cms_project/CMS/admin/posts.php?source=add_post'>Back to Form</a>";
+        echo "<a href='javascript:history.go(-1)'>Back to Form</a>";
         die();
     }
 
-    move_uploaded_file($post_image_temp, "../images/$post_image " );
+    move_uploaded_file($post_image_temp, "../images/$post_image" );
 
     try{
         //build query
